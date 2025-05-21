@@ -15,3 +15,5 @@ sudo tar -zcvf $BACKUP_DIR/wallet-backup-$DATE.tar.gz -C $VOLUME_PATH .
 chmod 700 $BACKUP_DIR/wallet-backup-$DATE.tar.gz
 
 echo "Backup completed: $BACKUP_DIR/wallet-backup-$DATE.tar.gz"
+
+
